@@ -4,3 +4,6 @@ transformers
 torch
 tensorflow
 keras
+pdfplumber
+nltk
+tunnel
