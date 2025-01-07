@@ -1,5 +1,4 @@
 import streamlit as st
-import pdfplumber
 from transformers import pipeline
 import nltk
 nltk.download("punkt")
