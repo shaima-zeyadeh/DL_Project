@@ -2,7 +2,7 @@ import streamlit as st
 import pdfplumber
 from transformers import pipeline
 import nltk
-nltk.download("punkt")
+nltk.download("punkt_tab")
 
 # Streamlit app
 def main():
